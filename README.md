@@ -8,7 +8,7 @@
 Sample app download link ---> https://drive.google.com/open?id=1zVXgbT52muBZCDlF_z4q61atZrwYZdcF
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=GcAQMNljno4"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=GcAQMNljno4"><img src="https://https://drive.google.com/open?id=1Y_kLGXg-A1NkQtC8OAPtEjZFZcoOU76J" alt="IMAGE ALT TEXT"></a>
 </div>
 
 <p>Step 1:</p>
