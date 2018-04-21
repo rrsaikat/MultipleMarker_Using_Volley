@@ -1,7 +1,7 @@
 # Show-Multiple-Markers-Using-Android-Volley-Library
 
 <p align="center">
-  <img src="https://github.com/rrsaikat/Multiple-markers-using-android-volley-library/raw/master/Screenshot_2018-04-16-09-05-04.png" height="550" width="350"/>
+  <img src="https://github.com/rrsaikat/MultipleMarker_Using_Volley/raw/master/Screenshot_2018-04-16-09-05-04.png" height="550" width="350"/>
   <img src="your_relative_path_here_number_2_large_name" width="250"/>
 </p>
 
