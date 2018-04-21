@@ -17,8 +17,7 @@ also (e.g: $host='sql104.byethost12.com'; $uname='rrsaikat';$pwd='1234';$db="xyz
 
 
 <p>Step 2:</p>
-<p>Create a database named "xyz" in your phpMyadmin and then import this Location.sql file (n.b: Must create a database first then import,
-otherwise error occurs) .</p>
+<p>Create a database named "xyz" in your phpMyadmin and then import this Location.sql file (n.b: Must create a database first then import,otherwise error occurs) .</p>
 <p>Location.sql ----->https://drive.google.com/open?id=1AJyJJ9mWtE9DcKo0vdhtP1nCCVyQ9S8e</p>
 
 <p>Step 3:</p>
@@ -45,7 +44,11 @@ otherwise error occurs) .</p>
 
 
 <p>Step 4:</p>
-<p>Now follow the video after importing the project from github into android studio.</p>
+<p>After importing the project from github into android studio, you need to create your own google_maps_api key and add them so carefully.Then create credintials and edit your api key by adding restriction of your key as only Android apps, give package and SHA-1 fingerprint into it.</p>
+<p align="center">
+  <img src="https://github.com/rrsaikat/MultipleMarker_Using_Volley/raw/master/Capture.JPG" height="550" width="350"/>
+</p>
+
 
 
 <p>Step 5:</p>
