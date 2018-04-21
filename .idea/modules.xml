@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MultipleMarker_Using_Volley.iml" filepath="$PROJECT_DIR$/MultipleMarker_Using_Volley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multiple_markers_using_android_volley_library.iml" filepath="$PROJECT_DIR$/Multiple_markers_using_android_volley_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
+
+<!-- module upsated -->

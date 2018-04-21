@@ -45,12 +45,7 @@ otherwise error occurs) .</p>
 
 
 <p>Step 4:</p>
-<p>Import the project from github.
-Project link ----> https://github.com/rrsaikat/Multiple-markers-using-android-volley-library
-After importing the project from github into android studio add your own google_maps_api key. To get api key go to this link https://console.developers.google.com  , create a project and then add credintials into it. Then edit the api key by adding key restrictions (android app) with package name and SHA-1 fingerprint into it.</p>
-<p align="center">
-  <img src="https://github.com/rrsaikat/Multiple-markers-using-android-volley-library/raw/master/Capture.JPG" height="550" width="350"/>
-</p>
+<p>Now follow the video after importing the project from github into android studio.</p>
 
 
 <p>Step 5:</p>
