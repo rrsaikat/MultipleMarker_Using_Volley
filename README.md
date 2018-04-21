@@ -8,7 +8,7 @@
 Sample app download link ---> https://drive.google.com/open?id=1zVXgbT52muBZCDlF_z4q61atZrwYZdcF
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=GcAQMNljno4"><img src="https://github.com/rrsaikat/MultipleMarker_Using_Volley/raw/master/youtube%20video%20pic.PNG" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=GcAQMNljno4"><img src="https://github.com/rrsaikat/MultipleMarker_Using_Volley/raw/master/youtube%20video%20pic.PNG" height="250" width="350" alt="IMAGE ALT TEXT"></a>
 </div>
 
 <p>Step 1:</p>
