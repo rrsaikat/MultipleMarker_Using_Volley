@@ -15,7 +15,7 @@ Sample app download link ---> https://drive.google.com/open?id=1zVXgbT52muBZCDlF
 
 <p>Step 1:</p>
 <p>Create your own free or paid web hosting server, you can try 000webhost.com or byethost.com for creating free web server with a domain
-name(e.g:http://rrsaikat.mydiscussion.net).Now go to htdocs of your domain and locate the <b>location.php</b> file into a subfolder named 
+name(e.g: http://rrsaikat.mydiscussion.net) . Now go to htdocs of your domain and locate the <b>location.php</b> file into a subfolder named 
 myjson. Before locating the location.php file you need to configure your own phpmyadmin hostname, username, password and database name 
 also (e.g: $host='sql104.byethost12.com'; $uname='rrsaikat';$pwd='1234';$db="xyz";)</p>
 <p>Download link of location.php ----->https://drive.google.com/open?id=1OqllLb_B-95x159ABj37TfqLYcrLwpY9</p>
