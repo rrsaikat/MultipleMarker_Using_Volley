@@ -11,6 +11,12 @@ Sample app download link ---> https://drive.google.com/open?id=1zVXgbT52muBZCDlF
   <a href="https://www.youtube.com/watch?v=GcAQMNljno4"><img src="https://github.com/rrsaikat/MultipleMarker_Using_Volley/raw/master/youtube%20video%20pic.PNG" height="350" width="550" alt="IMAGE ALT TEXT"></a>
 </div>
 
+<div align="center">
+	<iframe width="360" height="155" src="https://www.youtube.com/watch?v=GcAQMNljno4" frameborder="0" allowfullscreen>
+	</iframe>
+</div>
+
+
 <p>Step 1:</p>
 <p>Create your own free or paid web hosting server, you can try 000webhost.com or byethost.com for creating free web server with a domain
 name(e.g:http://rrsaikat.mydiscussion.net).Now go to htdocs of your domain and locate the <b>location.php</b> file into a subfolder named 
