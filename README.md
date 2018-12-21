@@ -30,23 +30,34 @@ also (e.g: $host='sql104.byethost12.com'; $uname='rrsaikat';$pwd='1234';$db="xyz
 <p>This is my JSON data -------->http://rrsaikat.mydiscussion.net/myjson/location.php </p>
 <p>Click the above URL in step 3 to see the json response from the server and our json will look like this :</p>
 
-{"FL":
- [
-
-	{"0":"1","id":"1",
-	 "1":"23.8103","latitude":"23.8103",
-	 "2":"90.4125","longitude":"90.4125"},
-
-	{"0":"2","id":"2",
-	 "1":"22.7010","latitude":"22.7010",
-	 "2":"90.3535","longitude":"90.3535"},
-
-	{"0":"3","id":"3",
-	 "1":"23.6","latitude":"23.6",
-	 "2":"89.8333333","longitude":"89.8333333"}
- ]
-}
-
+	{  
+	   "FL":[  
+	      {  
+		 "0":"1",
+		 "id":"1",
+		 "1":"23.8103",
+		 "latitude":"23.8103",
+		 "2":"90.4125",
+		 "longitude":"90.4125"
+	      },
+	      {  
+		 "0":"2",
+		 "id":"2",
+		 "1":"22.7010",
+		 "latitude":"22.7010",
+		 "2":"90.3535",
+		 "longitude":"90.3535"
+	      },
+	      {  
+		 "0":"3",
+		 "id":"3",
+		 "1":"23.6",
+		 "latitude":"23.6",
+		 "2":"89.8333333",
+		 "longitude":"89.8333333"
+	      }
+	   ]
+	}
 
 <p>Step 4:</p>
 <p>After importing the project from github into android studio, you need to create your own google_maps_api key and add them so carefully.Then create credintials and edit your api key by adding restriction of your key as only Android apps, give package and SHA-1 fingerprint into it.</p>
